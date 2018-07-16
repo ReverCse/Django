@@ -1,0 +1,4 @@
+example:
+
+To start new project: django-admin startproject first_project
+To start new app: python manage.py startapp first_app
